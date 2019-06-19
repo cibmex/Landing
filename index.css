@@ -1,6 +1,10 @@
 .portada{
+    height: 60vh;
     background-image: url("honolulu.jpg");
     background-size: cover;
     color: white;
 }
 
+#transportes img{
+    height: 100px;
+}
