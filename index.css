@@ -8,3 +8,12 @@
 #transportes img{
     height: 100px;
 }
+
+#galeria .carousel-item{
+    height: 300px;
+}
+
+#galeria img{
+    height: 300px;
+    width: 100px;
+}
